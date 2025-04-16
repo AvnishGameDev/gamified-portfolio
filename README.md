@@ -4,6 +4,10 @@ A Phaser.js-based gamified portfolio with oldschool GameBoy themed game. Inspire
 
 Live at [interactive.avnishgamedev.com](https://interactive.avnishgamedev.com).
 
+## Built in Just 2 Days
+
+**Note**: This entire project was created in just 2 days. The fast-paced development is a demonstration of how quickly concepts can come together using Phaser.js and Vite.
+
 ## Project Structure
 
 ```
