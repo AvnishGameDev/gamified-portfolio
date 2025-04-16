@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Pokemon GB';
+    src: url('../assets/fonts/PokemonGb-RAeo.tff') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Apply Pokemon GB font to all text elements in the game */
+.game-text {
+    font-family: 'Pokemon GB', monospace;
+} 

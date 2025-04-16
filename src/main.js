@@ -1,0 +1,1 @@
+import './game.js'; // Just bootstraps the Phaser game
