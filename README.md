@@ -73,12 +73,14 @@ or
 - NPC interaction with dialog system
 - Building interior scene with scene transition
 
-<!--## Screenshots
+## Screenshots
 
-Here are some images of the gamified portfolio in action: -->
+Here are some images of the gamified portfolio in action:
 
-<!-- ![Game Screenshot 1](public/assets/screenshot1.png) -->
-<!-- ![Game Screenshot 2](public/assets/screenshot2.gif) -->
+![image](https://github.com/user-attachments/assets/c295df1e-1998-4a41-bc7a-466a7d85abc9)
+![image](https://github.com/user-attachments/assets/d57c58c1-fd7d-4abe-8d88-cda849518069)
+![image](https://github.com/user-attachments/assets/3fd0e175-1ab1-4b90-ad22-a9d6913e924f)
+![image](https://github.com/user-attachments/assets/9289817f-2061-4dff-951e-bd46b23de1e7)
 
 ## Contributing
 
@@ -92,4 +94,4 @@ Contributions are welcome! Feel free to open issues, submit pull requests, or su
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/AvnishGameDev/gamified-portfolio/blob/main/LICENSE) file for details.
